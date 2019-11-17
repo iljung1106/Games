@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8c3ad8a345d59b14da6e7f406b662c97
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animator: {instanceID: 0}
+  - HealthBar: {instanceID: 0}
+  - HealthBackGround: {instanceID: 0}
+  - DieEffect: {instanceID: 0}
+  - HitEffect: {fileID: 4371789445386677276, guid: 79b9ae8cfee539b419a9c9dcb7bcfb94,
+      type: 3}
+  - bossScript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

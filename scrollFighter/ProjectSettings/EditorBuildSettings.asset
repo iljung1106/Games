@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: addad35c9fee41f418e5f42c2d4d7add
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 0955543a5ecdb1e48aead797651d730c
+  - enabled: 1
+    path: Assets/Scenes/SaladDodgeScene0.unity
+    guid: c877edf4055da8f408d935f307b2cb65
+  - enabled: 1
+    path: Assets/Scenes/SaladDodgeScene1.unity
+    guid: 6c4156128b31d764aa5be0a4bb67dacf
+  m_configObjects: {}
